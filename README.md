@@ -16,7 +16,6 @@ End to End protocol: TCP and UDP
 - Sent Data Rate
 - Packet size
 
-
 For Observations, refer to the observation directory in the repository.
 Overall Simulation Information:
 
